@@ -313,19 +313,19 @@ a {
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
     <div class="numbertext">1 / 3</div>
-    <img src="images/dog.jpg" width="100%" height="300">
+    <img src="dog.jpg" width="100%" height="300">
     <div class="text">Caption Text</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">2 / 3</div>
-    <img src="images/cat.jpg" style="width:100%" height="300">
+    <img src="cat.jpg" style="width:100%" height="300">
     <div class="text">Caption Two</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">3 / 3</div>
-    <img src="images/dog1.jpg" style="width:100%" height="300">
+    <img src="dog1.jpg" style="width:100%" height="300">
     <div class="text">Caption Three</div>
   </div>
 
