@@ -197,7 +197,7 @@ img {vertical-align: middle;}
 	</head>
 	<body>
 		<div class="header">
-  <img alt="logo" src="images/pet-house.png" height="80" width="80"/> 
+  <img alt="logo" src="pet-house.png" height="80" width="80"/> 
   <h1 style="text-align:center;">Pet management system</h1>
   
 </div>
