@@ -239,7 +239,7 @@ a {
 </head>
 <body>
 <div class="header">
-  <img alt="logo" src="images/pet-house.png" height="80" width="80"/> 
+  <img alt="logo" src="pet-house.png" height="80" width="80"/> 
   <h1 style="text-align:center;">Pet management system</h1>
   
 </div>
@@ -266,19 +266,19 @@ a {
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
     <div class="numbertext">1 / 3</div>
-    <img src="images/dog.jpg" width="100%" height="300">
+    <img src="dog.jpg" width="100%" height="300">
     <div class="text">Caption Text</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">2 / 3</div>
-    <img src="images/cat.jpg" style="width:100%" height="300">
+    <img src="cat.jpg" style="width:100%" height="300">
     <div class="text">Caption Two</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">3 / 3</div>
-    <img src="images/rabbit.jpg" style="width:100%" height="300">
+    <img src="rabbit.jpg" style="width:100%" height="300">
     <div class="text">Caption Three</div>
   </div>
 
